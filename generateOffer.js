@@ -38,7 +38,7 @@ async function generateOffer(clientRequest) {
             temperature: 0.7
         }, {
             headers: {
-                'Authorization': 'Bearer YOUR_API_KEY', // Înlocuiește YOUR_API_KEY cu cheia ta API
+                'Authorization': 'Bearer sk-proj-cipizkHQIx0xLLuciCiHT3BlbkFJwAXiMfNRZkPPYJcnFs0U', // Înlocuiește YOUR_API_KEY cu cheia ta API
                 'Content-Type': 'application/json'
             }
         });
